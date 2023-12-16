@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="dialogstyle">
+        <item name="android:windowAnimationStyle">@style/animations</item>
+<!--        <item name="android:backgroundDimEnabled">true</item>-->
+    </style>
+    <style name="animations">
+        <item name="android:windowEnterAnimation">@anim/dialog</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit</item>
+    </style>
+<!--    <style name="exit">-->
+<!--        -->
+<!--    </style>-->
+
+</resources>
