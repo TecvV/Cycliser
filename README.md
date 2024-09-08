@@ -1,8 +1,8 @@
-# Password Manager App
+# Cyclizer App
 
 ## Overview
 
-Welcome to the **Password Manager App**! This application is developed in Kotlin and helps you securely save your passwords in the cloud using Google Firebase. With this app, you can access your passwords from anywhere with ease, ensuring that your sensitive information is always secure.
+Welcome to the **Cyclizer App**! This application is developed in Kotlin and helps you securely save your passwords in the cloud using Google Firebase. With this app, you can access your passwords from anywhere with ease, ensuring that your sensitive information is always secure.
 
 ## Features
 
