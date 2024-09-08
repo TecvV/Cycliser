@@ -12,7 +12,7 @@ Welcome to the **Cyclizer App!**. This Android application, developed in Kotlin,
 - **1:1 Communication:** Buyers and sellers can securely communicate with each other through the app to discuss and finalize deals.
 - **Efficient Item Sharing:** A common server setup allows for efficient sharing and viewing of items, ensuring smooth and quick transactions between users.
 - **User-Friendly Interface:** Manage listings with an intuitive and sleek interface, ensuring a smooth experience for both buyers and sellers.
-- 
+
 ## Installation
 
 ### Prerequisites
