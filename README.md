@@ -23,7 +23,6 @@ Welcome to the **Cyclizer App**! This application is developed in Kotlin and hel
 
 
 
-https://github.com/user-attachments/assets/fa713718-adcb-43e8-a8fb-fdf3010e538c
-
+https://github.com/user-attachments/assets/2e1d88c6-1828-44c8-b52c-e00cc747da41
 
 
